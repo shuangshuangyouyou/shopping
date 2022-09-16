@@ -1,0 +1,85 @@
+import Vue from "vue";
+import {
+  Button,
+  Search,
+  Swipe,
+  SwipeItem,
+  Icon,
+  Grid,
+  GridItem,
+  Image,
+  Card,
+  Tabbar,
+  TabbarItem,
+  Tag,
+  List,
+  Cell,
+  Pagination,
+  DropdownItem,
+  DropdownMenu,
+  Sidebar,
+  SidebarItem,
+  Divider,
+  Overlay,
+  TreeSelect,
+  Field,
+  CellGroup,
+  Form,
+  Col,
+  Row,
+  Checkbox,
+  CheckboxGroup,
+  SubmitBar,
+  Popup,
+  Sku,
+  Stepper,
+  GoodsAction,
+  GoodsActionButton,
+  GoodsActionIcon,
+  Tab,
+  Tabs,
+  SwipeCell,
+  Empty
+} from "vant";
+
+Vue.use(Button);
+Vue.use(Search);
+Vue.use(Swipe);
+Vue.use(SwipeItem);
+Vue.use(Icon);
+Vue.use(Grid);
+Vue.use(GridItem);
+Vue.use(Image);
+Vue.use(Card);
+Vue.use(Tabbar);
+Vue.use(TabbarItem);
+Vue.use(Tag);
+Vue.use(List);
+Vue.use(Cell);
+Vue.use(Pagination);
+Vue.use(DropdownMenu);
+Vue.use(DropdownItem);
+Vue.use(Sidebar);
+Vue.use(SidebarItem);
+Vue.use(Divider);
+Vue.use(Overlay);
+Vue.use(TreeSelect);
+Vue.use(Field);
+Vue.use(CellGroup);
+Vue.use(Form);
+Vue.use(Field);
+Vue.use(Col);
+Vue.use(Row);
+Vue.use(Checkbox);
+Vue.use(CheckboxGroup);
+Vue.use(SubmitBar);
+Vue.use(Popup);
+Vue.use(Sku);
+Vue.use(Stepper);
+Vue.use(GoodsAction);
+Vue.use(GoodsActionButton);
+Vue.use(GoodsActionIcon);
+Vue.use(Tab);
+Vue.use(Tabs);
+Vue.use(SwipeCell);
+Vue.use(Empty);
